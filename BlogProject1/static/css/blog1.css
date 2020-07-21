@@ -1,0 +1,44 @@
+.content{
+  width:60%;
+  float:left;
+  padding: 0 0 0 30px;
+  background:  #32fafa;
+  height: 100%
+}
+.sidebar{
+  width:40%;
+  float:right;
+  background: #fcad03;
+  margin:0 0 10 0px;
+  height: 100%;
+  color: #8a0808;
+
+}
+h1{
+  color: red;
+  text-align: center;
+  border-bottom: 1px solid green;
+  padding-bottom: 5px;
+}
+body{
+background:  #32fafa;
+}
+#date,#ch{
+  color: red;
+  font-size: 12px;
+  font-style: italic;
+}
+#ch{
+  colr:red;
+  style:italic;
+}
+#pcount
+{
+  font-size: 40px;
+  color: red;
+  font-weight: bold;
+}
+#anchor
+{
+  color: red;
+}
